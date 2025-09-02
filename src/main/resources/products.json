@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1001",
+    "name": "Reloj Unisex Casio A168wemb-1bdf Vintage",
+    "description": "Reloj unisex Casio Vintage con correa de acero inoxidable y cierre desplegable.",
+    "price": 437574.00,
+    "currency": "COP",
+    "availableQuantity": 5,
+    "images": [
+      "/images/casio-a168-1.jpg",
+      "/images/casio-a168-2.jpg"
+    ],
+    "category": "Relojes",
+    "brand": "Casio",
+    "sellerDescription": "Producto original Casio, línea Vintage. Incluye caja y manual. Garantía oficial de 12 meses.",
+    "generalInfo": {
+      "discountPrice": 437574,
+      "originalPrice": 659000,
+      "discountPercentage": 33,
+      "installments": "3 cuotas de $145.858 sin interés",
+      "freeShipping": true
+    },
+    "characteristics": {
+      "line": "Vintage",
+      "model": "A168WEMB-1BDF",
+      "gender": "Unisex",
+      "age": "Adultos",
+      "caseColor": "Gris",
+      "strapMaterial": "Acero inoxidable",
+      "claspType": "Desplegable",
+      "strapColor": "Negro",
+      "bezelColor": "Gris",
+      "dialColor": "Negro"
+    },
+    "reviews": {
+      "rating": 5.0,
+      "totalReviews": 1,
+      "comments": []
+    }
+  },
+  {
+    "id": "1002",
+    "name": "Reloj Seiko 5 Automático SNK809",
+    "description": "Reloj automático Seiko 5 con correa de nailon y resistencia al agua.",
+    "price": 980000.00,
+    "currency": "COP",
+    "availableQuantity": 3,
+    "images": [
+      "/images/seiko-snk809-1.jpg",
+      "/images/seiko-snk809-2.jpg"
+    ],
+    "category": "Relojes",
+    "brand": "Seiko",
+    "sellerDescription": "Seiko original automático, resistente al agua 30m. Garantía oficial de 1 año.",
+    "generalInfo": {
+      "discountPrice": 930000,
+      "originalPrice": 980000,
+      "discountPercentage": 5,
+      "installments": "6 cuotas de $155.000 sin interés",
+      "freeShipping": false
+    },
+    "characteristics": {
+      "line": "Seiko 5",
+      "model": "SNK809",
+      "gender": "Hombre",
+      "age": "Adultos",
+      "caseColor": "Negro",
+      "strapMaterial": "Nailon",
+      "claspType": "Hebilla",
+      "strapColor": "Negro",
+      "bezelColor": "Negro",
+      "dialColor": "Negro"
+    },
+    "reviews": {
+      "rating": 4.5,
+      "totalReviews": 24,
+      "comments": [
+        "Excelente reloj automático, muy preciso.",
+        "La correa es cómoda pero un poco frágil."
+      ]
+    }
+  },
+  {
+    "id": "1003",
+    "name": "Reloj Fossil Grant Cronógrafo FS5151",
+    "description": "Reloj Fossil de estilo clásico con correa de cuero marrón y cronógrafo.",
+    "price": 720000.00,
+    "currency": "COP",
+    "availableQuantity": 10,
+    "images": [
+      "/images/fossil-fs5151-1.jpg",
+      "/images/fossil-fs5151-2.jpg"
+    ],
+    "category": "Relojes",
+    "brand": "Fossil",
+    "sellerDescription": "Reloj Fossil original con cronógrafo. Incluye estuche de regalo. Garantía 2 años.",
+    "generalInfo": {
+      "discountPrice": 650000,
+      "originalPrice": 720000,
+      "discountPercentage": 10,
+      "installments": "4 cuotas de $162.500 sin interés",
+      "freeShipping": true
+    },
+    "characteristics": {
+      "line": "Grant",
+      "model": "FS5151",
+      "gender": "Hombre",
+      "age": "Adultos",
+      "caseColor": "Plateado",
+      "strapMaterial": "Cuero",
+      "claspType": "Hebilla",
+      "strapColor": "Marrón",
+      "bezelColor": "Plateado",
+      "dialColor": "Azul"
+    },
+    "reviews": {
+      "rating": 4.8,
+      "totalReviews": 45,
+      "comments": [
+        "Muy elegante y clásico.",
+        "La correa de cuero es de excelente calidad."
+      ]
+    }
+  }
+]
